@@ -1,0 +1,7 @@
+C:\Users\chvsu\Udemy\Learning\bin\Publish\Learning.exe
+C:\Users\chvsu\Udemy\Learning\bin\Publish\appsettings.Development.json
+C:\Users\chvsu\Udemy\Learning\bin\Publish\appsettings.json
+C:\Users\chvsu\Udemy\Learning\bin\Publish\Learning.dll
+C:\Users\chvsu\Udemy\Learning\bin\Publish\Learning.deps.json
+C:\Users\chvsu\Udemy\Learning\bin\Publish\Learning.runtimeconfig.json
+C:\Users\chvsu\Udemy\Learning\bin\Publish\Learning.pdb
